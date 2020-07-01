@@ -31,7 +31,7 @@
         <dubbo.version>2.6.7</dubbo.version>
         <netty-all.version>4.1.6.Final</netty-all.version>
 
-        <log4j2.version>2.12.1</log4j2.version>
+        <log4j2.version>2.13.3</log4j2.version>
         <slf4j-api.version>1.7.29</slf4j-api.version>
     </properties>
 
