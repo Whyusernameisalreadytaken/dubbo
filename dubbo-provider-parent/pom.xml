@@ -28,7 +28,7 @@
         <provider-api.version>0.0.1-SNAPSHOT</provider-api.version>
 
         <spring-boot.version>2.2.1.RELEASE</spring-boot.version>
-        <dubbo.version>2.6.7</dubbo.version>
+        <dubbo.version>2.6.9</dubbo.version>
         <netty-all.version>4.1.6.Final</netty-all.version>
 
         <log4j2.version>2.12.1</log4j2.version>
